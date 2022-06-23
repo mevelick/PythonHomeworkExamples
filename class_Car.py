@@ -17,19 +17,15 @@ class Car:
     def get_speed(self):
         return self.__speed
 
-# Defining the main function
-def main():
-    # Creating a "Car" object
-    my_car = Car("2022 Trailblazer", "Chevy")
 
-    # Using "for" loops to run the methods 5x
-    for i in range(5):
-        my_car.accelerate()
-        print(my_car.get_speed())
+# Creating a Car object
+my_car = Car("2022 Trailblazer", "Chevy")
 
-    for i in range(5):
-        my_car.brake()
-        print(my_car.get_speed())
+# Using "for" loops to run the methods 5x
+for i in range(5):
+    my_car.accelerate()
+    print(my_car.get_speed())
 
-# Calling the main function to execute the code
-main()
+for i in range(5):
+    my_car.brake()
+    print(my_car.get_speed())
