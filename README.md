@@ -25,6 +25,8 @@ Problems include iterating over a string, sets, a sentinel loop, dictionaries, a
 Creating a class with attributes and creating an object of that class
 ### Inheritance and Recursion
 Creating a superclass and subclass, an object of the subclass, and using a recursive function
+### Game Project
+Text-based adventure game, each version adds new concepts
 
 ## More Info
 The course the assignments are based on is CIS 241 at Post University (2022)
