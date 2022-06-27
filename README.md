@@ -13,8 +13,7 @@ A text-based adventure game that has additions each unit based on what was learn
 
 
 ## Concepts Covered
-### Variables
-!(https://github.com/mevelick/PythonHomeworkExamples/tree/main/variables_and_input)
+### [Variables](https://github.com/mevelick/PythonHomeworkExamples)
 Examples include taking input, print statements, and basic math operations
 ### Loops/Decision Structures
 For, while, if/elif
