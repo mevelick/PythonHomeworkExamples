@@ -26,6 +26,7 @@ Creating a class with attributes and creating an object of that class
 ### Inheritance and Recursion
 Creating a superclass and subclass, an object of the subclass, and using a recursive function
 
+## More Info
 The course the assignments are based on is CIS 241 at Post University (2022)
 
 Textbook the course is based on: Starting Out with Python (4th Ed.), 2017 - Tony Gaddis
